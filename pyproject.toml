@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "md-merger"
+version = "0.1.0"
+description = "merge your markdown with streamlit!"
+authors = ["b0rjen <borjaramosoliva@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+streamlit = "^1.38.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
