@@ -76,3 +76,4 @@ if st.button("Procesar Archivos"): # Botón para procesar los archivos subidos
                 )
     else:
         st.warning("Por favor, introduce la ruta de la carpeta de salida y selecciona al menos un archivo .md o .txt.")
+### Fin del script ###
